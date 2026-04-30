@@ -53,5 +53,5 @@
 ---
 
 💼 **Currently seeking:** Frontend/Full-Stack Developer opportunities  
-📍 **Location:** Lublin, Poland | Open to remote work  
+📍 **Location:** Gdańsk, Poland | Open to remote work  
 ⚡ **Fun fact:** I've deployed all my projects to production and they actually work!
