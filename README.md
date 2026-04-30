@@ -40,7 +40,7 @@
 
 # 📊 GitHub Stats
 
-![Jan's GitHub stats](https://nirzak-streak-stats.vercel.app/?user=Koooowal&theme=dark&hide_border=false)
+![Jan's GitHub stats](https://streak-stats.demolab.com/?user=Koooowal&theme=dark&hide_border=false)
 
 ---
 
