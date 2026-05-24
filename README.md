@@ -1,12 +1,14 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Jan+Kowalski!" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Jan+Kowalski!" alt="Typing SVG" /></a>
+</h1>
+
+<p align="center">
+<b>Fullstack JavaScript Developer</b> focused on React and Node.js. I build web applications with real-time features, authentication systems and scalable REST APIs. Interested in product development, performance optimization, user-focused SaaS applications and modern frontend architecture.
 </p>
 
-<p  align="center">
-<b><span style="color: white;">Fullstack JavaScript Developer</span></b> focused on React and Node.js. I build web applications with real-time features, authentication systems and scalable REST APIs. Interested in product development, performance optimization, user-focused SaaS applications and modern frontend architecture.
-
-Currently seeking: Frontend/Full-Stack Developer opportunities  
-Location: Gdańsk, Poland | Open to remote work  
-Fun fact: I've deployed all my projects to production and they actually work!
+<p align="center">
+🎯 Currently seeking: Frontend/Full-Stack Developer opportunities<br>
+📍 Location: Gdańsk, Poland | Open to remote work<br>
+⚡ Fun fact: I've deployed all my projects to production and they actually work!
 </p>
 
 
@@ -16,29 +18,20 @@ Fun fact: I've deployed all my projects to production and they actually work!
 
 <h1 align="center"> Let's Connect</h1>
 
-<div align="center">
-
-  <a href="https://koowaldev.com" target="_blank" style="display:inline-block; text-align:center; margin: 0 20px;">
-    <img src="https://img.icons8.com/ios-filled/100/ffffff/domain.png" height="40" style="pointer-events:none;"><br>
-    <span style="color: white;">Portfolio</span>
+<p align="center">
+  <a href="https://koowaldev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-koowaldev.com-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-
- <a href="https://linkedin.com/in/dev-jan-kowalski" target="_blank" style="display:inline-block; text-align:center; margin: 0 20px;">
-  <img src="https://img.icons8.com/ios-filled/100/ffffff/linkedin.png" height="40" style="pointer-events:none;"><br>
-  <span style="color: white;">LinkedIn</span>
-</a>
-
-  <a href="mailto:jan.kowalski.koowal@gmail.com" style="display:inline-block; text-align:center; margin: 0 20px;">
-    <img src="https://cdn.simpleicons.org/gmail/white" height="40" style="pointer-events:none;"><br>
-    <span style="color: white;">Email</span>
+  <a href="https://linkedin.com/in/dev-jan-kowalski" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jan_Kowalski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="LINK_DO_CV" target="_blank" style="display:inline-block; text-align:center; margin: 0 20px;">
-    <img src="https://img.icons8.com/ios-filled/100/ffffff/document.png" height="40" style="pointer-events:none;"><br>
-    <span style="color: white;">CV</span>
+  <a href="mailto:jan.kowalski.koowal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kontakt-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-</div>
+  <a href="assets/Jan Kowalski - FullStack Developer.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Download-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -47,8 +40,8 @@ Fun fact: I've deployed all my projects to production and they actually work!
 
 <h1 align="center">  Tech Stack </h1>
 
-
 <h4 align="center"> Programming Languages: </h4>
+
 <span align="center">
 
   ![icon-collection-colors](https://stats.pphat.top/icons?name=javascript,typescript,python,csharp&color=%23EAB308,%233178C6,white,%233178C6&columns=4)
@@ -93,10 +86,8 @@ Fun fact: I've deployed all my projects to production and they actually work!
 />
 </td> 
 <td width="50%" align="center">
-<img
-  src="https://streak-stats.demolab.com/?user=Koooowal&theme=dark&hide_border=true"
-  style="display:block;"
-/>
+<img src="https://github-readme-streak-stats-six-rouge-76.vercel.app?user=Koooowal&theme=dark&hide_border=true"
+
 <img
     height=175
   src="https://github-readme-activity-graph.vercel.app/graph?username=Koooowal&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=151515&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true"
@@ -120,7 +111,7 @@ Fun fact: I've deployed all my projects to production and they actually work!
       <p>Full-stack finance manager - budgets, savings goals, recurring transactions via cron jobs.</p>
       <p><strong>React · Node.js · Express · MySQL · JWT</strong></p>
       <a href="https://coinly-1.onrender.com">🌐 Live</a> •
-      <a href="https://github.com/Koooowal/Coinly_FullStack">📁 Repo</a>
+      <a href="https://github.com/Koooowal/coinly-finance-manager">📁 Repo</a>
     </td>
     <td width="50%">
       <h3>Dashboard Analytics</h3>
@@ -128,7 +119,7 @@ Fun fact: I've deployed all my projects to production and they actually work!
       <p>Analytics dashboard with 8 chart types, real-time data and CSV/PDF export.</p>
       <p><strong>React · TypeScript · Tailwind · Recharts · Zustand</strong></p>
       <a href="https://dashboard-analytics-app-frontend.onrender.com">🌐 Live</a> •
-      <a href="https://github.com/Koooowal/Dashboard_Analytics_App_Frontend">📁 Repo</a>
+      <a href="https://github.com/Koooowal/dashboard-analitycs">📁 Repo</a>
     </td>
   </tr>
   <tr>
@@ -137,15 +128,15 @@ Fun fact: I've deployed all my projects to production and they actually work!
       <img src="assets/13.png" width="100%"/>
       <p>AI chatbot with real-time streaming, image analysis powered by Google Gemini 1.5 Flash.</p>
       <p><strong>React · Node.js · MongoDB · Gemini AI · Clerk</strong></p>
-       <a href="https://dashboard-analytics-app-frontend.onrender.com">🌐 Live</a> •
-      <a href="https://github.com/Koooowal/KoowalAI_ChatBot_FullStack">📁 Repo</a>
+       <a href="https://koowalai-chatbot-fullstack-frontend.onrender.com">🌐 Live</a> •
+      <a href="https://github.com/Koooowal/ai-chatbot">📁 Repo</a>
     </td>
     <td width="50%">
       <h3> Project Management App</h3>
       <img src="assets/aaa.jpg" width="100%" height="60%"/>
       <p>Full-stack project manager with real git workflow — PRs, issues, sprints.</p>
       <p><strong>Next.js · TypeScript · Prisma · MongoDB</strong></p>
-      <a href="#">📁 Repo</a>
+      <a href="https://github.com/Koooowal/poject-management-app">📁 Repo</a>
     </td>
   </tr>
 </table>
